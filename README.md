@@ -20,7 +20,8 @@
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roybylon&theme=transparent&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
 
 ![Ayobami's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybylon&show_icons=true&theme=transparent)
 

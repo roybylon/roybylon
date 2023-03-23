@@ -22,6 +22,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roybylon&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Ayobami's GitHub stats](https://github-readme-stats.vercel.app/api?username=roybylon&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roybylon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roybylon)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://komarev.com/ghpvc/?username=roybylon&style=flat-square&color=blue" alt=""/>
+
 <!--
 **roybylon/roybylon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
